@@ -18,9 +18,9 @@ Synchronous version of the prompt.
 - **String** `message`: The message do display.
 - **String** `defMsg`: The default value.
 - **Object** `options`: An object containing the following fields:
- - `char` (String): The character to display when writing something. For
-    example, if it's `*`, the text characters will be replaced with `*`.
- - `delimiter` (String): The delimiter between message and the value (default: `": "`).
+   - `char` (String): The character to display when writing something. For
+      example, if it's `*`, the text characters will be replaced with `*`.
+   - `delimiter` (String): The delimiter between message and the value (default: `": "`).
 
 #### Return
 - **String** The result.

@@ -47,9 +47,9 @@ Synchronous version of the prompt.
 - **String** `message`: The message do display.
 - **String** `defMsg`: The default value.
 - **Object** `options`: An object containing the following fields:
- - `char` (String): The character to display when writing something. For
-    example, if it's `*`, the text characters will be replaced with `*`.
- - `delimiter` (String): The delimiter between message and the value (default: `": "`).
+   - `char` (String): The character to display when writing something. For
+      example, if it's `*`, the text characters will be replaced with `*`.
+   - `delimiter` (String): The delimiter between message and the value (default: `": "`).
 
 #### Return
 - **String** The result.
@@ -61,6 +61,11 @@ Prompt a message to the user. The arguments are passed to the `sync` method.
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
+
+## :cake: Thanks
+
+ - Highly inspired from [`prompt-sync`](https://github.com/0x00A/prompt-sync). Thanks! :cake:
+
 
 
 ## :scroll: License
