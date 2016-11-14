@@ -43,10 +43,10 @@
     "ul": "^5.2.9"
   },
   "blah": {
-      "thanks": {
-          "ul": [
-              "Highly inspired from [`prompt-sync`](https://github.com/0x00A/prompt-sync). Thanks! :cake:"
-          ]
-      }
+    "thanks": {
+      "ul": [
+        "Highly inspired from [`prompt-sync`](https://github.com/0x00A/prompt-sync). Thanks! :cake:"
+      ]
+    }
   }
 }
