@@ -37,5 +37,9 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/promptify/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/promptify#readme"
+  "homepage": "https://github.com/IonicaBizau/promptify#readme",
+  "dependencies": {
+    "is-win": "^1.0.4",
+    "ul": "^5.2.9"
+  }
 }

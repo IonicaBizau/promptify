@@ -2,4 +2,12 @@
 
 const promptify = require("../lib");
 
-console.log(promptify());
+let name = promptify("Enter your name");
+console.log(`Hey, ${name}!`);
+
+let pass = promptify("Enter your password", {
+    char: "*"
+});
+console.log(`You entered: ${pass}`);
+
+
