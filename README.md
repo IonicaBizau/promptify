@@ -30,6 +30,7 @@ console.log(`You entered: ${pass}`);
 
 ## :memo: Documentation
 
+
 ### `Promptify(conf)`
 Creates a new `Promptify`. In most of the cases,
 there will be one such instance per process.
