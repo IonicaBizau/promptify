@@ -7,6 +7,7 @@ Creates a new `Promptify`. In most of the cases,
 there will be one such instance per process.
 
 #### Params
+
 - **Object** `conf`: The `Promptify` config:
 
 #### Return
@@ -16,6 +17,7 @@ there will be one such instance per process.
 Synchronous version of the prompt.
 
 #### Params
+
 - **String** `message`: The message do display.
 - **String** `defMsg`: The default value.
 - **Object** `options`: An object containing the following fields:
